@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://georgewu2.github.io/sitemap.xml 
