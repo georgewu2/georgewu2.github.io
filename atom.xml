@@ -4,7 +4,7 @@
   <title><![CDATA[Nomnomnom]]></title>
   <link href="http://georgewu2.github.io/atom.xml" rel="self"/>
   <link href="http://georgewu2.github.io/"/>
-  <updated>2013-12-29T01:22:02-05:00</updated>
+  <updated>2013-12-29T13:09:35-05:00</updated>
   <id>http://georgewu2.github.io/</id>
   <author>
     <name><![CDATA[George Wu]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post!]]></title>
+    <link href="http://georgewu2.github.io/blog/2013/12/29/first-post-slash/"/>
+    <updated>2013-12-29T01:32:53-05:00</updated>
+    <id>http://georgewu2.github.io/blog/2013/12/29/first-post-slash</id>
+    <content type="html"><![CDATA[<p>Hi everyone! I&rsquo;ve decided to start my own blog that will have just about anything! (food, code, math, etc) I figure it&rsquo;s time to do something useful and productive over winter break instead of bumming on Facebook all the time. Hopefully I&rsquo;ll learn something new! I&rsquo;m using <a href="octopress.org">Octopress</a> for my blog and it&rsquo;s been a relatively straightforward process :D.</p>
+]]></content>
+  </entry>
   
 </feed>
