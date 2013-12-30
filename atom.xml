@@ -4,7 +4,7 @@
   <title><![CDATA[Nomnomnom]]></title>
   <link href="http://georgewu2.github.io/atom.xml" rel="self"/>
   <link href="http://georgewu2.github.io/"/>
-  <updated>2013-12-29T13:09:35-05:00</updated>
+  <updated>2013-12-30T02:04:36-05:00</updated>
   <id>http://georgewu2.github.io/</id>
   <author>
     <name><![CDATA[George Wu]]></name>
@@ -14,11 +14,62 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Sophomore Fall Recap]]></title>
+    <link href="http://georgewu2.github.io/blog/2013/12/29/sophomore-fall-recap/"/>
+    <updated>2013-12-29T13:13:38-05:00</updated>
+    <id>http://georgewu2.github.io/blog/2013/12/29/sophomore-fall-recap</id>
+    <content type="html"><![CDATA[<p>Sophomore fall was one heck of a wild ride.</p>
+
+<h3>Academics</h3>
+
+<p>In terms of academics, I took Kenny Yu&rsquo;s exact sophomore fall schedule, which consists of:</p>
+
+<ul>
+<li>CS153    (Compilers)</li>
+<li>CS61     (Systems Programming and Machine Organization)</li>
+<li>Stat 110 (Introduction to Probability)</li>
+<li>SLS 11   (Molecules of Life)</li>
+</ul>
+
+
+<p>This was by far my most difficult semester.</p>
+
+<p>CS153 was a time-consuming class that took over my life most of the semester. I&rsquo;ve come to appreciate functional programming, as writing a compiler in an imperative language such as Java would&rsquo;ve been a real struggle. Hopefully I&rsquo;ve learned thing or two about compilers and am a little better at programming.</p>
+
+<p>CS61 was also a hard class, but super interesting as well. The whole notion of a kernel, processes and threads is really cool and after taking this class, I think I have a better understanding of how my computer works.</p>
+
+<p>I thought Stat 110 was a really cool and interesting class. My favorite part of this class was learning about the distributions and how they related to each other. See my answer on <a href="http://qr.ae/G6Q6i">Quora</a> for more.</p>
+
+<p>SLS 11 answered pretty much all my questions about the biological sciences, including molecules, diseases, and treatments. I&rsquo;m glad I took this course because I gained exposure to a lot of useful information that may prove useful in the future.</p>
+
+<h3>Extracurriculars</h3>
+
+<h4>CS50 Teaching Fellow</h4>
+
+<p>This semester, I was a teaching fellow for CS50 (Introduction to Computer Science I). I found the experience quite rewarding, as I not only taught to my students but learned from them as well. As a TF, I held a weekly 90 minute section for 15 students, held weekly 3 hours of office hours, and graded problem sets. I have to say, being a TF was a lot more time consuming than I originally thought, and although I ended up fine at the end of the semester, it did add a bit more stress than I would have liked.</p>
+
+<h4>CSA</h4>
+
+<p>CSA has remained every bit awesome as it was last semester. The events we threw were really fun, and I had my first experience having a party on a boat! (To be honest, I didn&rsquo;t really feel the boat too much). Also, this year&rsquo;s frosh reps are all really cool and I&rsquo;m glad to have bonded with some of them. Elections didn&rsquo;t go as I had hoped, but I&rsquo;m glad that I&rsquo;ll still be on board next semester! I&rsquo;ll be working on making the sib fam experience more memorable :D.</p>
+
+<h4>AADT</h4>
+
+<p>I remember my freshman year where I saw AADT&rsquo;s booth at the extracurricular fair at the Quad. I was extremely reluctant to dance, and I ended up only signing up for their mailing list. I am so glad I decided to try a dance this semester, as AADT rehearsals ended up being one of the few things I looked forward to every week. Dancing has definitely been one of my favorite destressors, and I&rsquo;m probably going to join a few more next semsester :D.</p>
+
+<h4>Chinatown Afterschool Program</h4>
+
+<p>My 5th graders are growing up! Teaching and doing fun projects with them has always been a blast, and I&rsquo;ll probably continue with this next year. This marks my 3rd semester with Chinatown, and all of them have been on Thursdays. I&rsquo;m really looking forward to seeing how they&rsquo;ll grow in the next semester.</p>
+
+<p>And that&rsquo;s the end of my sophomore fall experience! It was definitely way different from my freshman fall in both good and bad ways. Looking forward to the spring!</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[First Post!]]></title>
     <link href="http://georgewu2.github.io/blog/2013/12/29/first-post-slash/"/>
     <updated>2013-12-29T01:32:53-05:00</updated>
     <id>http://georgewu2.github.io/blog/2013/12/29/first-post-slash</id>
-    <content type="html"><![CDATA[<p>Hi everyone! I&rsquo;ve decided to start my own blog that will have just about anything! (food, code, math, etc) I figure it&rsquo;s time to do something useful and productive over winter break instead of bumming on Facebook all the time. Hopefully I&rsquo;ll learn something new! I&rsquo;m using <a href="octopress.org">Octopress</a> for my blog and it&rsquo;s been a relatively straightforward process :D.</p>
+    <content type="html"><![CDATA[<p>Hi everyone! I&rsquo;ve decided to start my own blog that will have just about anything! (food, code, math, etc) I figure it&rsquo;s time to do something useful and productive over winter break instead of bumming on Facebook all the time. Hopefully I&rsquo;ll learn something new! I&rsquo;m using <a href="http://octopress.org">Octopress</a> for my blog and it&rsquo;s been a relatively straightforward process :D.</p>
 ]]></content>
   </entry>
   
